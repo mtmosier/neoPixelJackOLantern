@@ -21,7 +21,7 @@ https://github.com/adafruit/Adafruit_NeoPixel
 Hardware
 ========
 
-For the arduino, I used a generic [Arduino Pro Mini compatible microcontroller](http://www.ebay.com/itm/200957063666?_trksid=p2060778.m2749.l2649&ssPageName=STRK%3AMEBIDX%3AIT), controlling a [NeoPixel Strip](https://www.adafruit.com/products/1460).  A [Step Down Buck Converter](http://www.ebay.com/itm/400362498785?_trksid=p2059210.m2749.l2649&ssPageName=STRK%3AMEBIDX%3AIT)  See the [schematic](_schematic.png) for more information.
+For the arduino, I used a generic [Arduino Pro Mini compatible microcontroller](http://www.ebay.com/itm/200957063666?_trksid=p2060778.m2749.l2649&ssPageName=STRK%3AMEBIDX%3AIT), controlling a [NeoPixel Strip](https://www.adafruit.com/products/1460).  A [Step Down Buck Converter](http://www.ebay.com/itm/400362498785?_trksid=p2059210.m2749.l2649&ssPageName=STRK%3AMEBIDX%3AIT) is also used.  See the [schematic](_schematic.png) for more information.
 
 
 Installation
